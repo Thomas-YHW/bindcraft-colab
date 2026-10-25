@@ -1,0 +1,4 @@
+interface:
+  display_name: "BindCraft Colab"
+  short_description: "Design and validate protein binders on Colab"
+  default_prompt: "Use $bindcraft-colab to prepare, run, monitor, and fetch a protein binder design campaign on Colab."

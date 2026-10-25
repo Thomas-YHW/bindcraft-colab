@@ -1,0 +1,2 @@
+# Tested local controller; scientific/CUDA dependencies are installed on Colab.
+google-colab-cli==0.7.4
